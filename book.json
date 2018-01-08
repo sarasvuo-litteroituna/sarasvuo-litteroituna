@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "editlink", "analytics", "-sharing"
+        "editlink", "-sharing"
     ],
     "pluginsConfig": {
         "github-edit": {
