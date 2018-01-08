@@ -1,7 +1,7 @@
 # Summary
 
 * [Esipuhe](README.md)
-* Miksi idealistit eivät tee ihmeitä?
+* [Miksi idealistit eivät tee ihmeitä?](miksi-idealistit-eivat-tee-ihmeita.md)
 * Armo on johtamisinnovaatioiden ässä
 * Kun yhteiskunta ja mieli hajoavat, muiden menestys auttaa
 * Tulokset tulevat toipumisesta. Addiktina tiedän tämän
@@ -20,7 +20,7 @@
 * Mielenterveys - entä jos se on ymmärretty väärin?
 * Kutsumus on kaunis sana, kauniimpi kuin menestys
 * Koulu on tasa-arvon mahdollistajista tärkein
-* Yrittäjä
+* [Yrittäjä](yrittaja.md)
 * Älä kylvä huonoa siementä kylmään tuuleen
 * Ihmisten tärkein tehtävä on lievittää toisten kärsimyksiä
 * Valta-anemia on kärsimyksistä kauheimpia
