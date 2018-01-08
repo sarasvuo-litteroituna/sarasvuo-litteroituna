@@ -1,0 +1,15 @@
+{
+    "plugins": [
+        "editlink", "analytics", "-sharing"
+    ],
+    "pluginsConfig": {
+        "github-edit": {
+            "repo": "sarasvuo-litteroituna/sarasvuo-litteroituna",
+            "branch": "master"
+        },
+        "editlink": {
+            "base": "https://github.com/sarasvuo-litteroituna/sarasvuo-litteroituna/edit/master",
+            "label": "Ehdota muokkausta"
+        }
+    }
+}
