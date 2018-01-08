@@ -12,20 +12,20 @@ Mikäli haluat osallistua projektiin, valitse monologi jonka haluat litteroida j
 
 ### Tyyliohjeet
 
-Sisältö kirjoitetaan markdown -muodossa. Käytännössä siis ihan raakana tekstinä. Perusohje Markdownin tuottamiseen löytyy esimerkiksi https://ukk.kapsi.fi/markdown\_help/
+Sisältö kirjoitetaan markdown -muodossa. Käytännössä siis ihan raakana tekstinä. Perusohje Markdownin tuottamiseen löytyy esimerkiksi [https://ukk.kapsi.fi/markdown\_help/](https://ukk.kapsi.fi/markdown_help/)
 
 Yleiset ohjeet \(ei kiveenkirjoitettuja, mutta toiminee pohjana\)
 
 * Teksti tulee kirjoittaa kuten puhuttu, ei muunnosta kirjakieleen \(esim "Te ootte" -&gt; "Te ootte", ei "Te olette"\)
 * Ylimääräisiä äännähdyksiä ei ole tarpeen kirjoittaa, paitsi jos niillä on sisältöön liittyvä merkitys
 * Erisnimien kirjoitusasu on hyvä tarkistaa
-* Siirtyminen Areenan puolelle on hyvä erottaa esimerkiksi merkinnällä
+* Siirtyminen Areenan puolelle on hyvä erottaa esimerkiksi merkinnällä  
   \#\#\#Areena-osuus
 
 * Mikäli tekstiin jää jotain korjattavaa \(, joka tarvitsee jotain apua\), on hyvä jättää siitä selvä merkintä esimerkiksi:  
   //TODO: tarkistettava sanan kirjoitusasu, ei löytynyt mistään
 
+* Mikäli on aiheellista, linkityksiä voi käyttää
 
-
-Keskeneräiset monologit on merkitty \*-etuliitteellä. Kun sisältö on valmis, \*-merkintä poistetaan.
+Jokaisen monologin alkuun on hyvä kirjoittaa ensinnäkin otsikko ja tämän jälkeen olennaiset meta-tiedot: alkuperäinen lähetyspäivä ja Areenan url.
 
